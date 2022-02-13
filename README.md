@@ -1,1 +1,1 @@
-# Modulo-10---CovidMap
+# Modulo 10 - Visualizaciones
