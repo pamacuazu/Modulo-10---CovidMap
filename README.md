@@ -199,6 +199,17 @@ svg
     .attr("cy", (d) => aProjection([d.long, d.lat])[1])
     .attr("r", (d) => calculateRadiusBasedOnAffectedCases(d.name, initialStats));
 ```
+## Resultado final:
+
+![task1](https://user-images.githubusercontent.com/58860865/153750633-478421bb-f2c0-4213-ac2b-308bb869eb76.PNG)
+
+
+
+
+
+
+
+
 
 
 
